@@ -1,4 +1,4 @@
-# hedge
+# hedge dashboard beta
 
 ## Project setup
 ```
